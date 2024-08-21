@@ -3,7 +3,7 @@ import img from '../../images/ritik.jpg.jpg'
 
 export default function Home(){
     return(
-        <div  className="flex flex-wrap px-4 items-center justify-around mt-28 sm:mt-0  h-screen">
+        <div  className="flex flex-wrap px-4 items-center justify-around mt-12 sm:mt-0  h-screen">
             <div className="w-72" >
                 <h2 id="home" className="text-5xl font-bold">Ritik Dahiya</h2>
                 <p className="text-xl font-medium">Web Developer</p>
