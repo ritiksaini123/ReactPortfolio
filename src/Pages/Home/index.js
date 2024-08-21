@@ -7,12 +7,12 @@ import { Contact } from "../../components/Contact";
 export function HomePage(){
     return (
         <div>
-            {/* <Home/>
+            <Home/>
             <About/>
             <Skill/>
             <Services/>
             <Portfolio/>
-            <Contact/> */}
+            <Contact/>
             
         </div>
     )
